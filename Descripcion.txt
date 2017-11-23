@@ -1,0 +1,21 @@
+DESCRIPCIÓN DEL PROBLEMA
+Para dar solución a este tipo de desastres, el gobierno del Perú creó el INDECI (Instituto Nacional de Defensa Civil), un componente del Sistema Nacional de Gestión del Riesgo de Desastrees - SINAGERD, responsable técnico de coordinar, facilitar y supervisar la formulación e implementación de la Política Nacional y del Plan Nacional de Gestión del Riesgo de Desastres, en los procesos de preparación, respuesta y rehabilitación.[2] 
+
+Para organizar una evacuación adecuada de la población, el Indeci definió las
+siguientes zonas de seguridad durante un sismo[3]:
+    Zonas de seguridad interna: las columnas, muros estructurales o los exteriores de un ascensor son por lo general las partes más fuertes de una construcción. En caso no sea posible una evacuación inmediata o segura, lleve a sus alumnos al lado de ellas.
+    Zonas de seguridad externa: las autoridades de Defensa Civil deben haber designado un lugar abierto en su colegio que funcione como zona de seguridad externa. Estas se encuentran por lo general en áreas libres como los patios deportivos, los jardines o parques, playas de estacionamiento o plazas.
+    Zonas o puntos de concentración: ya cuando el sismo es de gran magnitud, u ocurre un tsunami, debemos acudir a los puntos de concentración cercanos definidos por Defensa Civil. Estos son lugares de abastecimiento temporal de agua potable y alimentos, así como de atención en primeros auxilios.
+
+EL problema se origina la momento de dar a concer las zonas de seguridad
+externa y zonas o puntos de concentración a la población afectada, luego del
+momento preciso de haber sufrido un desastre natural.
+
+Dentro del Indeci encontramos a su Oficina General de Administración que a su
+vez presenta la Oficina de logística, dicho oficina se encarga de organizar, conducir y controlar los procesos de contrataciones de bienes y servicios para la administración interna y para las funciones misonales del Indeci, así como la recepción de la Ayuda Humanitaria nacional e internacional y otras donaciones[2].
+Esta función genera también un problema, al no poder presentar a la población
+afectada los productos disponibles en las zonas de concentración definidas por
+el Indeci.
+
+Es por estos desperfectos del sistema del Indeci que recurriremos a soluciones
+tecnológicas para afrontarlos.
