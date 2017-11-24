@@ -1,7 +1,13 @@
 Se plantea crear a SAFEPERU, una app para dispositivos moviles que tendra las siguientes funcionalidades:
-- Una facil ubicacion en el mapa de si su zona a sido afectada gravemente por el desastre natural
+- Una facil ubicacion en el mapa de si nuestra zona a sido afectada gravemente por el desastre natural
 - Las zonas seguras mas cercanas a nosotros.
-- Ver puntos de reunion de grupos de ayuda.
+- Ver puntos de reunion de los grupos de ayuda.
 - Conocer la magnitud del desastre natural.
-- Mandar una señal de ayuda y nuestra ubicacion.
-Esta aplicacion tendra acceso a la ubicacion gps de nuestros moviles y estara conectada a l
+- Mandar una señal de ayuda con nuestra ubicacion, para nuestro pronto rescate.
+Esta aplicacion tendra acceso a la ubicacion gps de nuestro movil y estara conectada a la central del INDECI para que esta
+ubique los vias principales de evacuacion asi como las zonas de seguridad en el lugar del incidente y tambien este podra 
+comunicar minuto a minuto cada una de las incidencias post desastre natural a las personas afectadas mediante la app.
+
+La interfaz principal de la app se basara en un mapa con nuestra ubicacion personalizado con las funciones anteriormente ya 
+mencionadas.
+
