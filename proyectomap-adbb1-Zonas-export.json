@@ -1,0 +1,35 @@
+{
+	"Zonas":{
+  "-L1Vcqhm-HuopNEKqXDE" : {
+    "id" : "-L1Vcqhm-HuopNEKqXDE",
+    "lat" : "-16.394463",
+    "longitud" : "-71.5144328",
+    "primaryColor" : "-16776961",
+    "radius" : "7000",
+    "secondColor" : "-16716961",
+    "subtitle" : "Derrumbe de edificaciones antiguas",
+    "title" : "Zona derrumbes"
+  },
+  "-L2Vcqhm-HuopNEKqXDE" :{
+    "id" : "-L1Vcqhm-HuopNEKqXDE",
+    "lat" : "-16.194463",
+    "longitud" : "-71.8144328",
+    "primaryColor" : "-16776961",
+    "radius" : "5000",
+    "secondColor" : "-16716961",
+    "subtitle" : "Desbordamiento de rio por abundancia de lluvias",
+    "title" : "Zona de inundacion"
+  },
+"-L3Vcqhm-HuopNEKqXDE" : {
+    "id" : "-L1Vcqhm-HuopNEKqXDE",
+    "lat" : "-16.994463",
+    "longitud" : "-71.5789328",
+    "primaryColor" : "-16776961",
+    "radius" : "700",
+    "secondColor" : "-16716961",
+    "subtitle" : "Expulsion de gases toxicos y cenizas",
+    "title" : "Zona de erupcion volcanica"
+  }
+
+}
+}
