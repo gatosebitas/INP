@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="transitionname_picture_principal">Ver video Heridas</string>
+    <string name="transitionname_picture">imagen2</string>
+    <string name="username_card">Quemadurads</string>
+</resources>
